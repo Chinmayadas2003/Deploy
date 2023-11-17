@@ -5,4 +5,4 @@ djangorestframework
 gunicorn 
 #psycopg2 
 #django-heroku 
-sklearn 
+scikit-learn
